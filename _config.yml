@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: keerthana-rl
-minimal_mistakes_skin: default
+minimal_mistakes_skin: mint
 search: true
 
 # Build settings
@@ -64,16 +64,17 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: &url 'https://keerthana-rl.github.io'
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: &githubUrl "https://github.com/Keerthana-rl"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: &instagramUrl "https://www.instagram.com/keerthana.rl/"
+
 
 footer:
   links:
@@ -85,7 +86,7 @@ footer:
       url: &githubUrl "https://github.com/Keerthana-rl"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: &instagramUrl "https://www.instagram.com/keerthana.rl/"
 
 defaults:
   # _posts
