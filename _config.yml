@@ -106,7 +106,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+about:
+  type: single
+  path: /about/
 category_archive:
   type: liquid
   path: /categories/
