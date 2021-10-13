@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Keerthana-rl"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.jpeg"
   bio    : "My Learnings and Notes"
   links:
     - label: "Website"
