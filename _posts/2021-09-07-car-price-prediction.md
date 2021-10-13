@@ -4,8 +4,8 @@ permalink: /posts/lr-normal-equation/
 excerpt: "Week-2 covers the simple linear regression using Normal Equation from Scratch"
 last_modified_at: 2021-09-19T16:00:11-04:00
 header:
-  #image: assets/images/week-2/20210919-car.jpg
-  teaser: assets/images/week-2/20210919-car.jpg
+  #image: assets/images/week-2/car.jpg
+  teaser: assets/images/week-2/car.jpg
 categories:
 - tutorial
 tags:
