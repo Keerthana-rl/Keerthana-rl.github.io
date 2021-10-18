@@ -1,3 +1,21 @@
+---
+title:  "Churn Prediction "
+permalink: /posts/logisticregression/
+excerpt: "Week-3 covers churn prediction"
+last_modified_at: 2021-09-19T16:00:11-04:00
+header:
+  #image: assets/images/week-2/20210919-car.jpg
+  teaser: assets/images/week-2/20210919-car.jpg
+categories:
+- tutorial
+tags:
+- mlzoomcamp
+toc: true
+toc_sticky: true
+#classes: wide
+---
+
+
 # 3. Machine Learning for Classification
 
 We'll use logistic regression to predict churn
