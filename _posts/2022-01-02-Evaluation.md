@@ -1,11 +1,9 @@
 ---
 title:  "Evaluation"
-permalink: /posts/evaluation/
+
 excerpt: "Evaluation of Churn basically confusion matrix, cross validation"
 last_modified_at: 2021-09-19T16:00:11-04:00
-header:
-  #image: assets/images/week-2/20210919-car.jpg
-  #teaser: assets/images/week-2/20210919-car.jpg
+
 categories:
 - tutorial
 tags:
