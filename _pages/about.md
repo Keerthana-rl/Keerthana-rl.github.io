@@ -4,6 +4,6 @@ permalink: /about/
 title: "About"
 ---
 
-Hi, This is Keerthana.I am an undergraduate student major at computer science and I have a huge interest in Machine Learning and Deeplearning.I am just consistently trying to improve my knowledge in this fields. This blog contains all my learnings and notes.
+Hi, This is Keerthana.I am a Data Scientist in Finance sector with 3+ years of experience in data analysis, machine learning, and statistical modeling and natural language processing. Skilled in Python,SQL, and data visualization tools, RAG ,Langchain, ChromaDb, Gen AI. Passionate about leveraging analytics to drive business growth and optimize processes.
 
-Interest: Machine Learning and Deep Learning
+Interest: NLP Engineer / Data Scientist
